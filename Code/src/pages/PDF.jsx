@@ -1,4 +1,4 @@
-import './PDF.css';
+import '../assets/css/PDF.css';
 
 function PDF() {
   return (

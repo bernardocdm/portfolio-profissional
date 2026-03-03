@@ -4,7 +4,7 @@ import Home from './pages/Home';
 import Sobre from './pages/Sobre';
 import Projetos from './pages/Projetos';
 import PDF from './pages/PDF';
-import './App.css';
+import './assets/css/App.css';
 
 function App() {
   return (

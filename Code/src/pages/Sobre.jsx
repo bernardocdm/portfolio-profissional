@@ -1,4 +1,4 @@
-import "./Sobre.css";
+import "../assets/css/Sobre.css";
 import { useTranslation } from "react-i18next";
 //import foto from '../assets/user.png';
 
