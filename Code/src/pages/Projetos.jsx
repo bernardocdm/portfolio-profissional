@@ -1,7 +1,9 @@
 import '../assets/css/Projetos.css';
+import { useEffect, useState } from 'react';
 
 function Projetos() {
-  const projects = [
+
+  const [projects , setProjects ] = useState([
     {
       id: 1,
       name: 'Projeto 1',
@@ -23,7 +25,20 @@ function Projetos() {
       technologies: ['Tecnologia 1', 'Tecnologia 2', 'Tecnologia 3'],
       github: 'https://github.com/seuusuario/projeto3'
     },
-  ];
+  ]
+);
+
+  useEffect(() => {
+  fetch("https://api.github.com/users/bernardocdm/repos")
+    .then(res => res.json())
+    .then(data => {
+      const filtered = data
+        .filter(repo => !repo.fork) //don't show forks
+        .sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at));
+
+      setProjects(filtered);
+    });
+}, []);
 
   return (
     <div className="projetos">
@@ -34,18 +49,16 @@ function Projetos() {
           {projects.map((project) => (
             <div key={project.id} className="project-card">
               <h3 className="project-name">{project.name}</h3>
-              <p className="project-description">{project.description}</p>
+              <p className="project-description">{project.description || "Sem descrição"}</p>
 
               <div className="technologies">
-                {project.technologies.map((tech, index) => (
-                  <span key={index} className="tech-tag">
-                    {tech}
-                  </span>
-                ))}
+                <span className="tech-tag">
+                  {project.language || "N/A"}
+                </span>
               </div>
 
               <a
-                href={project.github}
+                href={project.html_url}
                 className="github-link"
                 target="_blank"
                 rel="noopener noreferrer"
