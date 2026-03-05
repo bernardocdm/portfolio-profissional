@@ -3,29 +3,7 @@ import { useEffect, useState } from 'react';
 
 function Projetos() {
 
-  const [projects , setProjects ] = useState([
-    {
-      id: 1,
-      name: 'Projeto 1',
-      description: 'Projeto desenvolvido no contexto acadêmico com o objetivo de aplicar conceitos de desenvolvimento de software na resolução de problemas práticos.',
-      technologies: ['Tecnologia 1', 'Tecnologia 2', 'Tecnologia 3'],
-      github: 'https://github.com/seuusuario/projeto1'
-    },
-    {
-      id: 2,
-      name: 'projeto 2',
-      description: 'Projeto desenvolvido no contexto acadêmico com o objetivo de aplicar conceitos de desenvolvimento de software na resolução de problemas práticos.',
-      technologies: ['Tecnologia 1', 'Tecnologia 2', 'Tecnologia 3'],
-      github: 'https://github.com/seuusuario/projeto2'
-    },
-    {
-      id: 3,
-      name: 'Projeto 3',
-      description: 'Projeto desenvolvido no contexto acadêmico com o objetivo de aplicar conceitos de desenvolvimento de software na resolução de problemas práticos.',
-      technologies: ['Tecnologia 1', 'Tecnologia 2', 'Tecnologia 3'],
-      github: 'https://github.com/seuusuario/projeto3'
-    },
-  ]
+  const [projects , setProjects ] = useState([  ]
 );
 
   useEffect(() => {

@@ -53,13 +53,7 @@ function Sobre() {
               ))}
               </div>
               </div>
-              <div className="experience-section">
-                <h2>Minhas Experiências</h2>
-                <p className="experience-description">
-                  Experiências profissionais e acadêmicas vividas pelo autor, incluindo projetos desenvolvidos,
-                  competições, hackathons e outras atividades relevantes que contribuíram para seu desenvolvimento
-                  na área de tecnologia.</p>
-              </div>
+              
 
               <div className="action-buttons">
                 <Link to="/projetos" className="cta-button">
