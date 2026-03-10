@@ -1,5 +1,40 @@
 {
-  "titulo": "English",
-  "sobre": "This section is intended to present the author, including their background, interests in technology, and experiences developed throughout the course.",
-  "sobreMim": "About Me"
+  "titulo-home": "Hello, I am [Author Name]",
+  "assunto-home": "This is an academic portfolio developed to present projects, skills, and experiences acquired throughout the Software Engineering program.",
+  "butao-sobremim": "About Me",
+
+  "titulo-sobremim": "English",
+  "assunto-sobremim": "This section is intended to present the author, including their education, interests in the technology field, and experiences acquired during the course.",
+
+  "habilidade": "Skills",
+  "habilidade-descricao": "List of technologies, tools, and competencies developed during academic training and completed projects.",
+
+  "ver_projetos-descricao": "View My Projects",
+
+  "experiencias": "Experiences",
+  "empresa-experiencias": "Example Company",
+  "cargo-experiencias": "Example Position",
+  "periodo-experiencias": "Jan 2024 - Present",
+  "descricao-experiencia": "Brief description of responsibilities and achievements during the professional experience, highlighting applied skills and accomplished results.",
+
+  "projetos": "My Projects",
+  "nome-projeto": "Web Development Project",
+  "descricao-projeto": "Brief description of the project, highlighting the objectives, technologies used, and results achieved. This project involved developing a web application using React and Node.js, focusing on performance and usability.",
+  "linguaem-projeto": "Languages and Technologies: React, Node.js, Express, MongoDB",
+  "ver-projeto": "View on GitHub",
+
+  "contato-pdf": "Contact",
+  "nome-pdf": "Name",
+  "email-pdf": "Email",
+  "mensagem-pdf": "Message",
+  "enviar-pdf": "Send Message",
+
+  "contato-footer": "Contact",
+  "redes_sociais-footer": "Social Media",
+
+  "home-header": "Home",
+  "sobremim-header": "About Me",
+  "Experiencias-header": "Experiences",
+  "projetos-header": "Projects",
+  "contato-header": "Contact"
 }
