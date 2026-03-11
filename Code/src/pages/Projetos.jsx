@@ -47,7 +47,7 @@ function Projetos() {
 
       try {
 
-        const res = await fetch("https://api.github.com/users/Mateus7799/repos?per_page=6&page=1");
+        const res = await fetch("https://api.github.com/users/bernardocdm/repos?per_page=6&page=1");
         const data = await res.json();
 
         const sorted = data

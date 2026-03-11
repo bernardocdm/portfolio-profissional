@@ -1,31 +1,32 @@
 {
-  "titulo-home": "Hello, I am [Author Name]",
-  "assunto-home": "This is an academic portfolio developed to present projects, skills, and experiences acquired throughout the Software Engineering program.",
+  "titulo-home": "Hello, I am Bernardo Carvalho",
+  "assunto-home": "I am a Software Engineering student focused on web development. This portfolio showcases projects, technical skills, and experiences developed throughout my academic journey and personal studies.",
   "butao-sobremim": "About Me",
 
-  "titulo-sobremim": "English",
-  "assunto-sobremim": "This section is intended to present the author, including their education, interests in the technology field, and experiences acquired during the course.",
+  "titulo-sobremim": "About Me",
+  "assunto-sobremim": "I am a Software Engineering student interested in software development and modern web technologies. I have experience with Java and Object-Oriented Programming, as well as building web interfaces using JavaScript, HTML, and CSS. Currently, I am expanding my knowledge in React and exploring backend development with technologies such as Spring Boot.",
 
   "habilidade": "Skills",
-  "habilidade-descricao": "List of technologies, tools, and competencies developed during academic training and completed projects.",
+  "habilidade-descricao": "Technologies, tools, and programming concepts developed through academic projects and practical studies, including web development, object-oriented programming, and version control.",
 
   "ver_projetos-descricao": "View My Projects",
 
   "experiencias": "Experiences",
-  "empresa-experiencias": "Example Company",
-  "cargo-experiencias": "Example Position",
-  "periodo-experiencias": "Jan 2024 - Present",
-  "descricao-experiencia": "Brief description of responsibilities and achievements during the professional experience, highlighting applied skills and accomplished results.",
 
-  "empresa-experiencias2": "Example Company",
-  "cargo-experiencias2": "Example Position",
-  "periodo-experiencias2": "Jan 2024 - Present",
-  "descricao-experiencia2": "Brief description of responsibilities and achievements during the professional experience, highlighting applied skills and accomplished results.",
+  "empresa-experiencias": "Software Engineering Academic Projects",
+  "cargo-experiencias": "Software Development",
+  "periodo-experiencias": "2024 - Present",
+  "descricao-experiencia": "Development of academic systems applying concepts such as object-oriented programming, data structures, and software design. Practical experience using Java, JavaScript, HTML, CSS, and version control with Git and GitHub.",
 
-  "empresa-experiencias3": "Example Company",
-  "cargo-experiencias3": "Example Position",
-  "periodo-experiencias3": "Jan 2024 - Present",
-  "descricao-experiencia3": "Brief description of responsibilities and achievements during the professional experience, highlighting applied skills and accomplished results.",
+  "empresa-experiencias2": "Web Application Project with Laravel",
+  "cargo-experiencias2": "Developer",
+  "periodo-experiencias2": "2025",
+  "descricao-experiencia2": "Participation in the development of a web application using PHP, Laravel, and Livewire. The project involved backend logic implementation, database interaction, and development of responsive web interfaces.",
+
+  "empresa-experiencias3": "Personal Programming Projects",
+  "cargo-experiencias3": "Developer",
+  "periodo-experiencias3": "2024 - Present",
+  "descricao-experiencia3": "Development of personal and experimental projects to deepen knowledge in full-stack development, including Java applications, web interfaces, and experiments with React and API integration.",
 
   "projetos": "My Projects",
 
@@ -44,10 +45,10 @@
   "contato-header": "Contact",
 
   "titulo-pdf": "Download the Portfolio",
-  "titulo2-pdf": "Download your Portfolio as PDF",
-  "descricao-pdf": "This document provides a comprehensive overview of my education, skills, and professional experiences, showcasing my qualifications and achievements in the field of software engineering.",
-  "info1": "Personal information and description",
-  "info2": "List of technical skills",
-  "info3": "Professional and academic experiences",
-  "info4": "Projects with descriptions and links"
+  "titulo2-pdf": "Download My Portfolio as PDF",
+  "descricao-pdf": "This document provides an overview of my Software Engineering background, technical skills, academic experiences, and projects developed throughout my learning journey.",
+  "info1": "Personal information and professional summary",
+  "info2": "List of technical skills and technologies",
+  "info3": "Academic and practical experiences",
+  "info4": "Projects with descriptions and repository links"
 }

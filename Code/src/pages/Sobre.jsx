@@ -5,9 +5,18 @@ import foto from "../assets/img/user.png";
 
 function Sobre() {
   const skills = [
-  'JavaScript',
+  'HTML',
   'CSS',
-  'React'
+  'C',
+  'C++',
+  'JavaScript',
+  'React',
+  'Node',
+  'Java',
+  'PHP',
+  'Laravel',
+  'Git',
+  'SQL'
 ];
   const { t } = useTranslation();
 

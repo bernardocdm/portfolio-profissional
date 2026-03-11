@@ -11,7 +11,7 @@ function Footer() {
             <h3>{t("contato")}</h3>
             <div className="contact-links">
               <a
-                href="https://wa.me/5531900000000" /*Substitua com seu número aqui*/
+                href="https://wa.me/5531999839934" /*Substitua com seu número aqui*/
                 target="_blank"
                 rel="noopener noreferrer"
                 className="contact-link"
@@ -23,7 +23,7 @@ function Footer() {
                 <span>WhatsApp</span>
               </a>
               <a
-                href="https://mail.google.com/mail/?view=cm&fs=1&to=exemplo@gmail.com" /*Substitua com seu e-mail aqui*/
+                href="https://mail.google.com/mail/?view=cm&fs=1&to=bcarvalhomercado@gmail.com" /*Substitua com seu e-mail aqui*/
                 target="_blank"
                 rel="noopener noreferrer"
                 className="contact-link"
@@ -41,7 +41,7 @@ function Footer() {
             <h3>{t("redes_sociais-footer")}</h3>
             <div className="social-icons">
               <a
-                href="https://github.com/seuusuario" /*Substitua com seu link para o github aqui*/
+                href="https://github.com/bernardocdm" /*Substitua com seu link para o github aqui*/
                 target="_blank"
                 rel="noopener noreferrer"
                 className="social-link"
@@ -53,7 +53,7 @@ function Footer() {
                 <span>GitHub</span>
               </a>
               <a
-                href="https://linkedin.com/in/seuusuario" /*Substitua com seu link do linkedin aqui*/
+                href="https://linkedin.com/in/bernardocdm" /*Substitua com seu link do linkedin aqui*/
                 target="_blank"
                 rel="noopener noreferrer"
                 className="social-link"

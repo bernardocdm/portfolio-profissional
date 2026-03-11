@@ -8,7 +8,7 @@ function Header() {
   return (
     <header className="header">
       <div className="container">
-        <h1 className="logo">[Nome do Autor]</h1>
+        <h1 className="logo">Bernardo Carvalho</h1>
         <nav className="nav">
           <Link to="/" className="nav-link">
             {t("home-header")}

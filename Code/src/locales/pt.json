@@ -1,35 +1,37 @@
 {
-  "titulo-home": "Olá, eu sou [Nome do Autor]",
-  "assunto-home": "Este é um portfólio acadêmico desenvolvido para apresentar projetos, habilidades e experiências adquiridas ao longo da formação em Engenharia de Software.",
+  "titulo-home": "Olá, eu sou Bernardo Carvalho",
+  "assunto-home": "Sou estudante de Engenharia de Software com foco em desenvolvimento web. Tenho experiência com Java, JavaScript e desenvolvimento de aplicações acadêmicas utilizando diferentes tecnologias do ecossistema web.",
   "butao-sobremim": "Sobre mim",
 
-  "titulo-sobremim": "Português",
-  "assunto-sobremim": "Este espaço é destinado à apresentação do autor, incluindo sua formação, interesses na área de tecnologia e experiências adquiridas ao longo do curso",
+  "titulo-sobremim": "Sobre mim",
+  "assunto-sobremim": "Sou estudante de Engenharia de Software interessado em desenvolvimento de software e tecnologias web. Tenho experiência com Java e Programação Orientada a Objetos, além de trabalhar com JavaScript, HTML e CSS no desenvolvimento de interfaces. Atualmente estou aprofundando meus conhecimentos em React e explorando o ecossistema de backend com Spring Boot e outras tecnologias modernas.",
 
   "habilidade": "Habilidades",
-  "habilidade-descricao": "Lista de tecnologias, ferramentas e competências desenvolvidas durante a formação acadêmica e projetos realizados",
-  "ver_projetos-descricao":"Ver meus Projetos",
+  "habilidade-descricao": "Tecnologias e ferramentas utilizadas em projetos acadêmicos e estudos práticos, incluindo desenvolvimento web, lógica de programação, orientação a objetos e versionamento de código.",
+  "ver_projetos-descricao": "Ver meus Projetos",
 
   "experiencias": "Experiências",
-  "empresa-experiencias": "Empresa Exemplo",
-  "cargo-experiencias": "Cargo Exemplo",
-  "periodo-experiencias": "Jan 2024 - Atual",
-  "descricao-experiencia": "Descrição breve das responsabilidades e conquistas durante a experiência profissional, destacando habilidades aplicadas e resultados alcançados.",
 
-  "empresa-experiencias2": "Empresa Exemplo",
-  "cargo-experiencias2": "Cargo Exemplo",
-  "periodo-experiencias2": "Jan 2024 - Atual",
-  "descricao-experiencia2": "Descrição breve das responsabilidades e conquistas durante a experiência profissional, destacando habilidades aplicadas e resultados alcançados.",
+  "empresa-experiencias": "Projetos Acadêmicos - Engenharia de Software",
+  "cargo-experiencias": "Desenvolvimento de Software",
+  "periodo-experiencias": "2024 - Atual",
+  "descricao-experiencia": "Desenvolvimento de sistemas acadêmicos aplicando conceitos de programação orientada a objetos, estruturas de dados e desenvolvimento web. Experiência prática com Java, JavaScript, HTML, CSS e versionamento de código utilizando Git e GitHub.",
 
-  "empresa-experiencias3": "Empresa Exemplo",
-  "cargo-experiencias3": "Cargo Exemplo",
-  "periodo-experiencias3": "Jan 2024 - Atual",
-  "descricao-experiencia3": "Descrição breve das responsabilidades e conquistas durante a experiência profissional, destacando habilidades aplicadas e resultados alcançados.",
+  "empresa-experiencias2": "Projeto Web com Laravel",
+  "cargo-experiencias2": "Desenvolvedor",
+  "periodo-experiencias2": "2025",
+  "descricao-experiencia2": "Participação no desenvolvimento de uma aplicação web utilizando PHP, Laravel e Livewire, aplicando conceitos de arquitetura web, integração com banco de dados e desenvolvimento de interfaces.",
+
+  "empresa-experiencias3": "Projetos Pessoais de Programação",
+  "cargo-experiencias3": "Desenvolvedor",
+  "periodo-experiencias3": "2024 - Atual",
+  "descricao-experiencia3": "Desenvolvimento de projetos práticos para aprofundar conhecimentos em desenvolvimento full stack, incluindo sistemas em Java, aplicações web e experimentação com React e integração de APIs.",
 
   "projetos": "Meus Projetos",
-  "nome-projeto": "Projeto de Desenvolvimento Web",
-  "descricao-projeto": "Descrição breve do projeto, destacando os objetivos, tecnologias utilizadas e resultados alcançados. Este projeto envolveu o desenvolvimento de uma aplicação web utilizando React e Node.js, com foco em desempenho e usabilidade.",
-  "linguaem-projeto": "Linguagens e Tecnologias: React, Node.js, Express, MongoDB",
+
+  "nome-projeto": "Sistema de Gerenciamento de Projetos",
+  "descricao-projeto": "Aplicação desenvolvida para auxiliar equipes de desenvolvimento na organização de projetos, tarefas e sprints. O sistema permite criação de projetos, gerenciamento de atividades e acompanhamento do progresso da equipe.",
+  "linguaem-projeto": "Linguagens e Tecnologias: JavaScript, HTML, CSS, React (em evolução), Git",
   "ver-projeto": "Ver no GitHub",
 
   "contato": "Contato",
@@ -47,11 +49,11 @@
   "projetos-header": "Projetos",
   "contato-header": "Contato",
 
-  "titulo-pdf":"Download do Portfólio",
-  "titulo2-pdf":"Baixe seu Portfólio em PDF",
-  "descricao-pdf":"Este documento fornece uma visão abrangente da minha formação, habilidades e experiências profissionais, destacando minhas qualificações e conquistas na área de engenharia de software.",
-  "info1":"Informações pessoais e descrição",
-  "info2":"Lista de habilidades técnicas",
-  "info3":"Experiências profissionais e acadêmicas",
-  "info4":"Projetos com descrições e links"
+  "titulo-pdf": "Download do Portfólio",
+  "titulo2-pdf": "Baixe meu Portfólio em PDF",
+  "descricao-pdf": "Este documento apresenta minha formação em Engenharia de Software, habilidades técnicas, experiências acadêmicas e projetos desenvolvidos durante minha jornada de aprendizado em tecnologia.",
+  "info1": "Informações pessoais e descrição profissional",
+  "info2": "Lista de habilidades técnicas e tecnologias",
+  "info3": "Experiências acadêmicas e práticas",
+  "info4": "Projetos com descrições e links para repositórios"
 }
