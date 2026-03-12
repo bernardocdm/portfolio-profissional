@@ -1,53 +1,60 @@
 export const portfolioData = {
-  name: "Seu Nome",
+  name: "Bernardo Carvalho",
   about: {
-    pt: "Descrição sobre você em português. Conte um pouco sobre sua formação, interesses e experiências acadêmicas ou pessoais.",
-    en: "About you in English. Briefly describe your education, interests, and academic or personal experiences."
+    pt: "Sou estudante de Engenharia de Software com interesse em desenvolvimento de sistemas e tecnologias web. Tenho experiência com Java e Programação Orientada a Objetos, além de desenvolver interfaces utilizando JavaScript, HTML e CSS. Atualmente estou aprofundando meus conhecimentos em React e explorando o desenvolvimento backend com tecnologias como Spring Boot.",
+    en: "I am a Software Engineering student interested in software development and modern web technologies. I have experience with Java and Object-Oriented Programming, as well as building web interfaces using JavaScript, HTML, and CSS. Currently, I am expanding my knowledge in React and exploring backend development with technologies such as Spring Boot."
   },
   skills: [
+    "Java",
+    "Object-Oriented Programming",
     "JavaScript",
+    "HTML",
     "CSS",
-    "React"
+    "React",
+    "Git",
+    "GitHub",
+    "SQL",
+    "Software Development"
   ],
   experiences: {
-    pt: `Descrição das suas experiências em português. Pode incluir trabalhos acadêmicos, projetos pessoais, competições, hackathons ou outras atividades relevantes.`,
-    en: `Description of your experiences in English. Include academic work, personal projects, competitions, hackathons, or other relevant activities.`
+    pt: `Durante minha formação em Engenharia de Software participei do desenvolvimento de projetos acadêmicos aplicando conceitos como programação orientada a objetos, estruturas de dados e desenvolvimento web. Também desenvolvi projetos práticos envolvendo aplicações em Java e interfaces web utilizando JavaScript, HTML e CSS. Além disso, venho explorando tecnologias modernas do ecossistema web, como React, para expandir minhas habilidades em desenvolvimento full stack.`,
+    en: `During my Software Engineering studies I have worked on academic projects applying concepts such as object-oriented programming, data structures, and web development. I have also developed practical projects including Java applications and web interfaces using JavaScript, HTML, and CSS. Additionally, I have been exploring modern technologies from the web ecosystem, such as React, to expand my full stack development skills.`
   },
   projects: [
     {
       name: {
-        pt: "Projeto Exemplo",
-        en: "Sample Project"
+        pt: "Sistema de Gerenciamento de Projetos",
+        en: "Project Management System"
       },
       description: {
-        pt: "Descrição do projeto em português. Explique o objetivo, tecnologias utilizadas e o que foi desenvolvido.",
-        en: "Project description in English. Explain the goal, technologies used, and what was developed."
+        pt: "Sistema desenvolvido para auxiliar equipes na organização de projetos, tarefas e acompanhamento de atividades. O projeto foca em organização de fluxo de trabalho e gestão de tarefas dentro de equipes de desenvolvimento.",
+        en: "System developed to help teams organize projects, tasks, and track activities. The project focuses on workflow organization and task management within development teams."
       },
-      technologies: ["Tecnologia 1", "Tecnologia 2", "Tecnologia 3"],
+      technologies: ["JavaScript", "HTML", "CSS", "React"],
       github: "https://github.com/seuusuario/projeto-exemplo"
     },
     {
       name: {
-        pt: "Projeto Exemplo 2",
-        en: "Sample Project 2"
+        pt: "Sistema Bancário em Java",
+        en: "Java Banking System"
       },
       description: {
-        pt: "Descrição do segundo projeto em português.",
-        en: "Description of the second project in English."
+        pt: "Projeto desenvolvido para simular operações bancárias como depósito, saque, transferência e cálculo de juros. O sistema foi criado aplicando conceitos de programação orientada a objetos como herança, encapsulamento e polimorfismo.",
+        en: "Project developed to simulate banking operations such as deposit, withdrawal, transfers, and interest calculation. The system was built applying object-oriented programming concepts such as inheritance, encapsulation, and polymorphism."
       },
-      technologies: ["Tecnologia 1", "Tecnologia 2", "Tecnologia 3"],
+      technologies: ["Java", "Object-Oriented Programming"],
       github: "https://github.com/seuusuario/projeto-exemplo2"
     },
     {
       name: {
-        pt: "Projeto Exemplo 3",
-        en: "Sample Project 3"
+        pt: "Aplicação Web com Laravel",
+        en: "Web Application with Laravel"
       },
       description: {
-        pt: "Descrição do terceiro projeto em português.",
-        en: "Description of the third project in English."
+        pt: "Aplicação web desenvolvida em projeto acadêmico utilizando PHP e Laravel, com integração a banco de dados e desenvolvimento de interfaces para gerenciamento de informações.",
+        en: "Web application developed in an academic project using PHP and Laravel, including database integration and interface development for information management."
       },
-      technologies: ["Tecnologia 1", "Tecnologia 2", "Tecnologia 3"],
+      technologies: ["PHP", "Laravel", "Livewire", "HTML", "CSS", "JavaScript"],
       github: "https://github.com/seuusuario/projeto-exemplo3"
     }
   ]

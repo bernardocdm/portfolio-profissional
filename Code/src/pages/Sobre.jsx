@@ -1,7 +1,7 @@
 import "../assets/css/Sobre.css";
 import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
-import foto from "../assets/img/user.png";
+import foto from "../assets/bc.jpeg";
 
 function Sobre() {
   const skills = [
