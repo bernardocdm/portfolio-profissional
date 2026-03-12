@@ -72,12 +72,9 @@ A aplicação apresenta uma estrutura moderna e reutilizável para exibição de
 
 ---
 
-## 👨‍💻 Autores
+## 👨‍💻 Portfolio
 
-- Arthur Modesto Couto
-- Bernardo Carvalho Denucci Mercado
-- Mateus Azevedo Araújo
-- Matheus Dias Mendes
+🔗 https://portfolio-bernardocarvalho.vercel.app
   
 ---
 
